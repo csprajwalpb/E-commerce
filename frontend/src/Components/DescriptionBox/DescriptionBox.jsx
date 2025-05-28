@@ -8,8 +8,8 @@ const DescriptionBox = () => {
             <div className="descriptionbox-nav-box fade">Reviews(122)</div>  
       </div>
       <div className="descriptionbox-description">
-        <p>write something about ecommerce website later.</p>
-        <p>Something more about E-commerce</p>
+        <p>Comfortable Outfits by SHOPAHOLIC.</p>
+        <p>Suitable for every occasion</p>
       </div>
     </div>
   )
