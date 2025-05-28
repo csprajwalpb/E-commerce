@@ -102,7 +102,7 @@ POST /removeproduct — Remove product by id
 👤 Author
 Prajwal P B
 
-Student @ Atria Institute of Technology, Bangalore
+Student @ Atria Institute of Technology, Bangalore<br>
 LinkedIn : https://www.linkedin.com/in/prajwalpb
 
 
