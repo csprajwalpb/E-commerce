@@ -45,16 +45,16 @@ This is a full-featured **E-Commerce Website** built with the **MERN stack** (Mo
 
 ### 1. Clone the Repository
 ### 2. Backend Setup : 
-cd backend
-npm install
-To start server : node .\index.js
+cd backend<br>
+npm install<br>
+To start server : node .\index.js<br>
 ### 3. Frontend Setup :
-cd frontend
-npm install
-npm start
+cd frontend<br>
+npm install<br>
+npm start<br>
 ### 4. Admin Panel Setup:
-cd admin
-npm run dev
+cd admin<br>
+npm run dev<br>
 
 🛠️ Admin Access
 No separate admin login UI — but admin functions (like addproduct, removeproduct) are available through the backend via tools like Postman, or a simple admin page (if you’ve added it in frontend).
