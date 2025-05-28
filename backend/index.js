@@ -1,6 +1,7 @@
 const port = process.env.PORT || 4000;
 const express = require("express");
 const app = express();
+require('dotenv').config();
 const mongoose = require("mongoose");
 const jwt = require("jsonwebtoken");
 const multer = require("multer");
@@ -13,7 +14,7 @@ app.use(cors());
 
 //Database Connection - MongoDB
 
-mongoose.connect("mongodb+srv://prajwalpb8055:prajwalpb@cluster0.kppg90u.mongodb.net/e-commerce");
+mongoose.connect(process.env.MONGO_URI);
 
 //API Creation
 
